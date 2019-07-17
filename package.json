@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "My first Express App",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdorijanx/first-express-app.git"
+  },
+  "author": "Dorijan Tomić",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdorijanx/first-express-app/issues"
+  },
+  "homepage": "https://github.com/xdorijanx/first-express-app#readme"
+}
